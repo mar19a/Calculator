@@ -1,5 +1,7 @@
 Calculator App
 
+<img width="216" alt="Screenshot 2024-02-01 at 1 37 04 PM" src="https://github.com/mar19a/Calculator/assets/84360137/c62b3d46-d6cc-40a2-929a-652cff5d6e03">
+
 
 Description
 
@@ -12,8 +14,9 @@ Basic arithmetic operations: addition, subtraction, multiplication, division.
 Square root calculations.
 Real-time result display.
 User-friendly interface with direct typing support.
+
+
 Setup
-<img width="216" alt="Screenshot 2024-02-01 at 1 37 04 PM" src="https://github.com/mar19a/Calculator/assets/84360137/c62b3d46-d6cc-40a2-929a-652cff5d6e03">
 
 To run this project, follow these steps:
 1. Clone the repository to your local machine.
